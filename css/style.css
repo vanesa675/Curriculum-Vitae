@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(171, 228, 247);
+}    
+.oneimg{
+    width: 200px;
+    float: right;
+    height: 300px;
+}
+
+.twoimg{
+    width: 50px;
+    float: left;
+    height: 50px;
+}
+
+.threeimg{
+    width: 50px;
+    float: left;
+    height: 50px;
+}
+
+.fourimg{
+    width: 50px;
+    float: left;
+    height: 50px;
+}
+
+.fiveimg{
+    width: 50px;
+    float: left;
+    height: 50px;
+}
+
